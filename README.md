@@ -1,4 +1,4 @@
-# Bolcala
+# Bolcala Board Game
 
 Board Setup
 
